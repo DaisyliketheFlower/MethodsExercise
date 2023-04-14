@@ -29,7 +29,7 @@
             //Method Call
             //Madlib();
 
-            Console.WriteLine($"The answer is: {Add(2,7,3,9,4,10,15)}");
+            
 
             //var result = Subtract(5, 1);
             // Console.WriteLine($"The subtraction result is:{result}");
@@ -39,7 +39,51 @@
 
             //Console.WriteLine(Divide(8, 2));
             //Console.WriteLine(Modulus(11, 4));
+            Console.WriteLine(Add(1, 2, 3, 4, 5, 6));
         }
+
+        public static int Add(params int[] nums)
+        {
+            var sum = 0;
+
+            foreach (var x in nums)
+            {
+                sum += x; //sum = sum + x;
+            }
+
+            return sum;
+        }
+
+
+        public static int Subtract(int num1, int num2)
+        {
+            return num1 - num2;
+        }
+
+
+        public static void Multiply()
+        {
+            Console.WriteLine("What is the 1st number you want to multiply?");
+            var num1 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("What is the 2nd number?");
+            var num2 = int.Parse(Console.ReadLine());
+
+            var answer = num1 * num2;
+
+            Console.WriteLine($"The multiplication answer is: {answer}");
+        }
+
+        public static double Divide(double num1, double num2)
+        {
+            return num1 / num2;
+        }
+
+        public static int Modulus(int num1, int num2)
+        {
+            return num1 % num2;
+        }
+
     }
     //Exercise 2
 
@@ -52,50 +96,9 @@
 
     //}
 
-    public static int Add(params int[] nums)
-    {
-        var sum = 0;
-
-        foreach(var x in nums)
-        {
-            sum += x; //sum = sum + x;
-        }
-
-          return sum;
-    } 
-        
-   
-    public static int Subtract(int num1, int num2)
-    {
-        return num1 - num2;
-    }
 
 
-    public static void Multiply()
-    {
-        Console.WriteLine("What is the 1st number you want to multiply?");
-        var num1 = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("What is the 2nd number?");
-        var num2 = int.Parse(Console.ReadLine());
-
-        var answer = num1 * num2;
-
-        Console.WriteLine($"The multiplication answer is: {answer}");
-    }
-
-    public static double Divide(double num1, double num2)
-    {
-        return num1 / num2;
-    }
-
-    public static int Modulus(int num1, int num2)
-    {
-        return num1 % num2;
-    }
-
-    
-  
 }
 
 

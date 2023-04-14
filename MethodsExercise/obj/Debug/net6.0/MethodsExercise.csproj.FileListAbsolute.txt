@@ -21,3 +21,10 @@
 /Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/methods/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.dll
 /Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/methods/MethodsExercise/MethodsExercise/obj/Debug/net6.0/refint/MethodsExercise.dll
 /Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/methods/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.pdb
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/methods/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/methods/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.deps.json
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/methods/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.runtimeconfig.json
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/methods/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.dll
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/methods/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.pdb
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/methods/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.genruntimeconfig.cache
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/methods/MethodsExercise/MethodsExercise/obj/Debug/net6.0/ref/MethodsExercise.dll
