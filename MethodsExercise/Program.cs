@@ -27,18 +27,18 @@
         {
 
             //Method Call
-            //Madlib();
+            //MadLib();
 
             
 
-            //var result = Subtract(5, 1);
-            // Console.WriteLine($"The subtraction result is:{result}");
+            var result = Subtract(5, 1);
+             Console.WriteLine($"The subtraction result is:{result}");
 
-            //Multiply();
+            Multiply();
 
 
-            //Console.WriteLine(Divide(8, 2));
-            //Console.WriteLine(Modulus(11, 4));
+            Console.WriteLine(Divide(8, 2));
+            Console.WriteLine(Modulus(11, 4));
             Console.WriteLine(Add(1, 2, 3, 4, 5, 6));
         }
 
